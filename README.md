@@ -6,17 +6,12 @@ FECHA:04/09/2019
 
 QUE HICE HASTA AHORA? 
 
-APRENDER:
-
-ANGULAR: Intalacion.
-
-FIREBASE: Ventajas y Desventajas.
-
-GOOGLE CLOUD: Puestan en Marchar y Prueba de Servidor.
-
-BIGQUERY:Prueba de Consultas.
-
-APPMAKER: Para que sirve.
+	APRENDER:
+	ANGULAR: Intalacion.
+	FIREBASE: Ventajas y Desventajas.
+	GOOGLE CLOUD: Puestan en Marchar y Prueba de Servidor.
+	BIGQUERY:Prueba de Consultas.
+	APPMAKER: Para que sirve.
 
 QUE HARE HOY?
  HOY APRENDI A USAR GITHUB. :)
