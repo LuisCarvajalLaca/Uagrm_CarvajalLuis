@@ -5,7 +5,18 @@ Informe Diario de Avance: El objetivo de este informe es facilitar la transferen
 FECHA:04/09/2019
 
 QUE HICE HASTA AHORA? 
-APRENDER ANGULAR, FIREBASE, GOOGLE CLOUD, BIGQUERY, APPMAKER.
+
+APRENDER:
+
+ANGULAR: Intalacion.
+
+FIREBASE: Ventajas y Desventajas.
+
+GOOGLE CLOUD: Puestan en Marchar y Prueba de Servidor.
+
+BIGQUERY:Prueba de Consultas.
+
+APPMAKER: Para que sirve.
 
 QUE HARE HOY?
  HOY APRENDI A USAR GITHUB. :)
