@@ -19,4 +19,22 @@ QUE HARE HOY?
 COMO LO HARE?
 CON ENTUSIASMO Y GANAS DE APRENDER. Java, Github.
 
+FECHA:05/09/2019
+
+QUE HICE HASTA AHORA? 
+
+	APRENDER:
+	ANGULAR: Intalacion.
+	FIREBASE: Ventajas y Desventajas.
+	GOOGLE CLOUD: Puestan en Marchar y Prueba de Servidor.
+	BIGQUERY:Prueba de Consultas.
+	APPMAKER: Para que sirve.
+	GITHUB: Aprender el uso de GitHut para el control de versiones.	
+
+QUE HARE HOY?
+IDENTIFICAR QUE TENGO QUE HACER CON MI PROYECTO(Objetivos)
+
+COMO LO HARE?
+Con distintas Herramientas para el logro de los objetivos.
+
 
