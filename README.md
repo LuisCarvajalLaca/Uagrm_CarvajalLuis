@@ -57,4 +57,23 @@ REVISAR LA ESTRUCTURA DE MI DOCUMENTO.
 COMO LO HARE?
 Con distintas opiniones profesionales.
 
+FECHA:09/09/2019
+
+QUE HICE HASTA AHORA? 
+
+	APRENDER:
+	ANGULAR: Intalacion.
+	FIREBASE: Ventajas y Desventajas.
+	GOOGLE CLOUD: Puestan en Marchar y Prueba de Servidor.
+	BIGQUERY:Prueba de Consultas.
+	APPMAKER: Para que sirve.
+	GITHUB: Aprender el uso de GitHut para el control de versiones.	
+	IDENTIFICAR QUE TENGO QUE HACER CON MI PROYECTO(Objetivos)
+	REVISAR LA ESTRUCTURA DE MI DOCUMENTO.
+
+QUE HARE HOY?
+Usar Angular Crud Generador
+COMO LO HARE?
+Con Yeoman.
+
 
