@@ -96,4 +96,25 @@ Usar Angular 8 CRUD App Development
 COMO LO HARE?
 Con Ayuda de una guia.
 
+FECHA:11/09/2019
+
+QUE HICE HASTA AHORA? 
+
+	APRENDER:
+	ANGULAR: Intalacion.
+	FIREBASE: Ventajas y Desventajas.
+	GOOGLE CLOUD: Puestan en Marchar y Prueba de Servidor.
+	BIGQUERY:Prueba de Consultas.
+	APPMAKER: Para que sirve.
+	GITHUB: Aprender el uso de GitHut para el control de versiones.	
+	IDENTIFICAR QUE TENGO QUE HACER CON MI PROYECTO(Objetivos)
+	REVISAR LA ESTRUCTURA DE MI DOCUMENTO.
+	Usar Angular Crud Generador	
+	Usar Angular 8 CRUD App Development
+
+QUE HARE HOY?
+Aprender a Usar Cordova + Angular.
+COMO LO HARE?
+Viendo Tutoriales y documentacion en internet.
+
 
