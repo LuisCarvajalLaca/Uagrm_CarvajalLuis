@@ -210,3 +210,56 @@ QUE HARE HOY?
 Aprender a usar Apex Oracle
 COMO LO HARE?
 Leyendo y conociendo las herramientas.
+
+
+FECHA:18/09/2019
+
+QUE HICE HASTA AHORA? 
+
+	APRENDER:
+	ANGULAR: Intalacion.
+	FIREBASE: Ventajas y Desventajas.
+	GOOGLE CLOUD: Puestan en Marchar y Prueba de Servidor.
+	BIGQUERY:Prueba de Consultas.
+	APPMAKER: Para que sirve.
+	GITHUB: Aprender el uso de GitHut para el control de versiones.	
+	IDENTIFICAR QUE TENGO QUE HACER CON MI PROYECTO(Objetivos)
+	REVISAR LA ESTRUCTURA DE MI DOCUMENTO.
+	Usar Angular Crud Generador	
+	Usar Angular 8 CRUD App Development
+	Aprender a Usar Cordova + Angular.
+	Revisar Documento.	
+	Sorteo día de exposición, escoger Framework para nuestro proyecto.
+	Aprender a usar Apex Oracle
+
+QUE HARE HOY?
+Primera presentación de Prototipo y Documento.
+COMO LO HARE?
+Con Diapostivas y herramientas para mostrarlo.
+
+
+FECHA:25/09/2019
+
+QUE HICE HASTA AHORA? 
+
+	APRENDER:
+	ANGULAR: Intalacion.
+	FIREBASE: Ventajas y Desventajas.
+	GOOGLE CLOUD: Puestan en Marchar y Prueba de Servidor.
+	BIGQUERY:Prueba de Consultas.
+	APPMAKER: Para que sirve.
+	GITHUB: Aprender el uso de GitHut para el control de versiones.	
+	IDENTIFICAR QUE TENGO QUE HACER CON MI PROYECTO(Objetivos)
+	REVISAR LA ESTRUCTURA DE MI DOCUMENTO.
+	Usar Angular Crud Generador	
+	Usar Angular 8 CRUD App Development
+	Aprender a Usar Cordova + Angular.
+	Revisar Documento.	
+	Sorteo día de exposición, escoger Framework para nuestro proyecto.
+	Aprender a usar Apex Oracle
+	Primera presentación de Prototipo y Documento.
+
+QUE HARE HOY?
+Primer dia Mod. 2 Introduccion al tema, bibliografias, etc.
+COMO LO HARE?
+Con el material que nos daran.
