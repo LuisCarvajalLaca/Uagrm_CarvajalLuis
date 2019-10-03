@@ -347,3 +347,65 @@ QUE HARE HOY?
 Exposicion Zappos, Dropbox, Fb...
 COMO LO HARE?
 Con ayuda de libros e informacion acerca de esos temas.
+
+FECHA:01/09/2019
+
+QUE HICE HASTA AHORA? 
+
+	APRENDER:
+	ANGULAR: Intalacion.
+	FIREBASE: Ventajas y Desventajas.
+	GOOGLE CLOUD: Puestan en Marchar y Prueba de Servidor.
+	BIGQUERY:Prueba de Consultas.
+	APPMAKER: Para que sirve.
+	GITHUB: Aprender el uso de GitHut para el control de versiones.	
+	IDENTIFICAR QUE TENGO QUE HACER CON MI PROYECTO(Objetivos)
+	REVISAR LA ESTRUCTURA DE MI DOCUMENTO.
+	Usar Angular Crud Generador	
+	Usar Angular 8 CRUD App Development
+	Aprender a Usar Cordova + Angular.
+	Revisar Documento.	
+	Sorteo día de exposición, escoger Framework para nuestro proyecto.
+	Aprender a usar Apex Oracle
+	Primera presentación de Prototipo y Documento.
+	Primer dia Mod. 2 Introduccion al tema, bibliografias, etc.
+	Avance Metodologias Agiles
+	Revision de Codigo del Proyecto.
+	Exposicion Zappos, Dropbox, Fb...
+
+QUE HARE HOY?
+Exposicion Eventos, Equipo de Scrum y Artefactos.
+COMO LO HARE?
+Con Ayuda a los libros de Scrum.
+
+FECHA:02/09/2019
+
+QUE HICE HASTA AHORA? 
+
+	APRENDER:
+	ANGULAR: Intalacion.
+	FIREBASE: Ventajas y Desventajas.
+	GOOGLE CLOUD: Puestan en Marchar y Prueba de Servidor.
+	BIGQUERY:Prueba de Consultas.
+	APPMAKER: Para que sirve.
+	GITHUB: Aprender el uso de GitHut para el control de versiones.	
+	IDENTIFICAR QUE TENGO QUE HACER CON MI PROYECTO(Objetivos)
+	REVISAR LA ESTRUCTURA DE MI DOCUMENTO.
+	Usar Angular Crud Generador	
+	Usar Angular 8 CRUD App Development
+	Aprender a Usar Cordova + Angular.
+	Revisar Documento.	
+	Sorteo día de exposición, escoger Framework para nuestro proyecto.
+	Aprender a usar Apex Oracle
+	Primera presentación de Prototipo y Documento.
+	Primer dia Mod. 2 Introduccion al tema, bibliografias, etc.
+	Avance Metodologias Agiles
+	Revision de Codigo del Proyecto.
+	Exposicion Zappos, Dropbox, Fb...
+	Exposicion Eventos, Equipo de Scrum y Artefactos.
+
+
+QUE HARE HOY?
+Exposicion de los 19 Procesos de Srcum
+COMO LO HARE?
+Con Ayuda a los libros de Scrum.
