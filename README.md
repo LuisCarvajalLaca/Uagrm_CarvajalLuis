@@ -409,3 +409,143 @@ QUE HARE HOY?
 Exposicion de los 19 Procesos de Srcum
 COMO LO HARE?
 Con Ayuda a los libros de Scrum.
+
+FECHA:03/09/2019
+
+QUE HICE HASTA AHORA? 
+
+	APRENDER:
+	ANGULAR: Intalacion.
+	FIREBASE: Ventajas y Desventajas.
+	GOOGLE CLOUD: Puestan en Marchar y Prueba de Servidor.
+	BIGQUERY:Prueba de Consultas.
+	APPMAKER: Para que sirve.
+	GITHUB: Aprender el uso de GitHut para el control de versiones.	
+	IDENTIFICAR QUE TENGO QUE HACER CON MI PROYECTO(Objetivos)
+	REVISAR LA ESTRUCTURA DE MI DOCUMENTO.
+	Usar Angular Crud Generador	
+	Usar Angular 8 CRUD App Development
+	Aprender a Usar Cordova + Angular.
+	Revisar Documento.	
+	Sorteo día de exposición, escoger Framework para nuestro proyecto.
+	Aprender a usar Apex Oracle
+	Primera presentación de Prototipo y Documento.
+	Primer dia Mod. 2 Introduccion al tema, bibliografias, etc.
+	Avance Metodologias Agiles
+	Revision de Codigo del Proyecto.
+	Exposicion Zappos, Dropbox, Fb...
+	Exposicion Eventos, Equipo de Scrum y Artefactos.
+	Exposicion de los 19 Procesos de Srcum
+
+
+QUE HARE HOY?
+Avance Sobre Scrum
+COMO LO HARE?
+Con Ayuda a los libros de Scrum.
+
+
+FECHA:07/09/2019
+
+QUE HICE HASTA AHORA? 
+
+	APRENDER:
+	ANGULAR: Intalacion.
+	FIREBASE: Ventajas y Desventajas.
+	GOOGLE CLOUD: Puestan en Marchar y Prueba de Servidor.
+	BIGQUERY:Prueba de Consultas.
+	APPMAKER: Para que sirve.
+	GITHUB: Aprender el uso de GitHut para el control de versiones.	
+	IDENTIFICAR QUE TENGO QUE HACER CON MI PROYECTO(Objetivos)
+	REVISAR LA ESTRUCTURA DE MI DOCUMENTO.
+	Usar Angular Crud Generador	
+	Usar Angular 8 CRUD App Development
+	Aprender a Usar Cordova + Angular.
+	Revisar Documento.	
+	Sorteo día de exposición, escoger Framework para nuestro proyecto.
+	Aprender a usar Apex Oracle
+	Primera presentación de Prototipo y Documento.
+	Primer dia Mod. 2 Introduccion al tema, bibliografias, etc.
+	Avance Metodologias Agiles
+	Revision de Codigo del Proyecto.
+	Exposicion Zappos, Dropbox, Fb...
+	Exposicion Eventos, Equipo de Scrum y Artefactos.
+	Exposicion de los 19 Procesos de Scrum
+	Avance Sobre Scrum
+
+
+QUE HARE HOY?
+Ver defensa de Tesis de Maestria.
+COMO LO HARE?
+Visitando la Unidad de Postgrado.
+
+
+FECHA:08/09/2019
+
+QUE HICE HASTA AHORA? 
+
+	APRENDER:
+	ANGULAR: Intalacion.
+	FIREBASE: Ventajas y Desventajas.
+	GOOGLE CLOUD: Puestan en Marchar y Prueba de Servidor.
+	BIGQUERY:Prueba de Consultas.
+	APPMAKER: Para que sirve.
+	GITHUB: Aprender el uso de GitHut para el control de versiones.	
+	IDENTIFICAR QUE TENGO QUE HACER CON MI PROYECTO(Objetivos)
+	REVISAR LA ESTRUCTURA DE MI DOCUMENTO.
+	Usar Angular Crud Generador	
+	Usar Angular 8 CRUD App Development
+	Aprender a Usar Cordova + Angular.
+	Revisar Documento.	
+	Sorteo día de exposición, escoger Framework para nuestro proyecto.
+	Aprender a usar Apex Oracle
+	Primera presentación de Prototipo y Documento.
+	Primer dia Mod. 2 Introduccion al tema, bibliografias, etc.
+	Avance Metodologias Agiles
+	Revision de Codigo del Proyecto.
+	Exposicion Zappos, Dropbox, Fb...
+	Exposicion Eventos, Equipo de Scrum y Artefactos.
+	Exposicion de los 19 Procesos de Scrum
+	Avance Sobre Scrum
+	Ver defensa de Tesis de Maestria.
+
+
+QUE HARE HOY?
+Exposicion de los 19 Procesos de Scrum
+COMO LO HARE?
+Con ayuda de libros de Scrum.
+
+FECHA:09/09/2019
+
+QUE HICE HASTA AHORA? 
+
+	APRENDER:
+	ANGULAR: Intalacion.
+	FIREBASE: Ventajas y Desventajas.
+	GOOGLE CLOUD: Puestan en Marchar y Prueba de Servidor.
+	BIGQUERY:Prueba de Consultas.
+	APPMAKER: Para que sirve.
+	GITHUB: Aprender el uso de GitHut para el control de versiones.	
+	IDENTIFICAR QUE TENGO QUE HACER CON MI PROYECTO(Objetivos)
+	REVISAR LA ESTRUCTURA DE MI DOCUMENTO.
+	Usar Angular Crud Generador	
+	Usar Angular 8 CRUD App Development
+	Aprender a Usar Cordova + Angular.
+	Revisar Documento.	
+	Sorteo día de exposición, escoger Framework para nuestro proyecto.
+	Aprender a usar Apex Oracle
+	Primera presentación de Prototipo y Documento.
+	Primer dia Mod. 2 Introduccion al tema, bibliografias, etc.
+	Avance Metodologias Agiles
+	Revision de Codigo del Proyecto.
+	Exposicion Zappos, Dropbox, Fb...
+	Exposicion Eventos, Equipo de Scrum y Artefactos.
+	Exposicion de los 19 Procesos de Scrum
+	Avance Sobre Scrum
+	Ver defensa de Tesis de Maestria.
+	Exposicion de los 19 Procesos de Scrum
+
+
+QUE HARE HOY?
+Desarrollo de una app para el registro de reservas en fireabas con Equipo Scrum
+COMO LO HARE?
+aplicando lo aprendido.
